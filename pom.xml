@@ -56,11 +56,6 @@
 			<artifactId>springfox-swagger2</artifactId>
 			<version>${springfox.swagger.version}</version>
 		</dependency>
-		<dependency>
-			<groupId>de.codecentric</groupId>
-			<artifactId>spring-boot-admin-starter-client</artifactId>
-			<version>${spring.admin.server.version}</version>
-		</dependency>
 	</dependencies>
 
 	<build>
